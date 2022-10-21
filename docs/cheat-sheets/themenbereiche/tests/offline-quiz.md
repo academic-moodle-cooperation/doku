@@ -35,4 +35,11 @@ Lorem ipsum
 
 Tragen Sie den „Namen des Offline-Tests” ein. Sie können ein Testdatum eingeben, wenn Sie zuvor die Checkbox „Aktivieren” anklicken. Legen Sie fest, wie viele Gruppen der Test haben soll. Bei Bedarf können Sie den Teilnehmer*innen eine Online-Prüfungseinsicht gewähren. Legen Sie den Zeitraum dafür fest und welche Aspekte die Teilnehmer*innen sehen dürfen. Sichern Sie Ihre Einstellungen mittels der Schaltfläche „Speichern und anzeigen”.
 
+:::tip
+
+Filter können nicht nur für den gesamten Kurs konfiguriert werden, sondern sind bei allen Aktivitäten und Arbeitsmaterialien unter dem Zahnradsymbol kontextsensitiv anpassbar.
+
+:::
+
+
 ![Offline Test hinzufügen](img/Offline-Test-hinzufügen.png)
